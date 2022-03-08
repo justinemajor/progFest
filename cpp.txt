@@ -1,0 +1,16 @@
+l'entité se voit assigner un type;
+le type ne change pas de tout le programme...
+Compilation : pas d'installation de "runtime", portabilité plus grande
+Python : l'erreur est détectée à la compilation
+C++ : erreur détectée seulement à la détection/encodage (machine)
+Référence aux objets d'autres méthodes avec le linker (incluant avec librairie externe)
+directive : #
+optimiser : -O1 (dans l'interpréteur)
+gestionnaire de build, par exemple CMake, puis gestionnaire de librairie portable (vpi...)
+& est une référence explicite (ex dans fonction pour changer la valeur d'une variable)
+"C++ adore les copies!"
+Défis : gestion de mémoire (retourner de la mémoire à l'OS entre autres) avec new et delete/delete[] (les deux!)
+* : pointeur
+Deux parties de mémoire : Stack et Heap... raison de faire une fonction AVEC return... voir problèmes potentiels PWP
+std::vector<T> en priorité, sinon std::array<T,N> pour nombre statique d'éléments
+pour une matrice utiliser la librairie Eigen
