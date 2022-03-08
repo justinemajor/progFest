@@ -1,0 +1,8 @@
+networkx ou graph-tool sur python
+matrice ou liste d'adjacence
+draw_spring(), draw_circular(), draw_random() -> networkx
+graph-tool : plus beau mais plus complexe
+variables de la théorie des graphes : degré, degré moyen, densité, distance entre les noeuds, diamètre, average shortest path length, centralité, centralité intermédiaire, vecteurs propres, communautés, modularité
+légende urbaine semi-vérifiée dans les années 60 : distance maximale entre deux individus est 6!! (parfois même moins selon les études)
+modèle SIS par exemple pour des simulations épidémiologiques (modèle compartimental)
+Recurrent neural networks (RNNs)

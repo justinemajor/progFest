@@ -1,0 +1,2 @@
+pyOpenCL -> GPU on Python
+cartes haute performance : 1 pour affichage & 1 pour calculs
