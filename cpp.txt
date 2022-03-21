@@ -14,3 +14,4 @@ Défis : gestion de mémoire (retourner de la mémoire à l'OS entre autres) ave
 Deux parties de mémoire : Stack et Heap... raison de faire une fonction AVEC return... voir problèmes potentiels PWP
 std::vector<T> en priorité, sinon std::array<T,N> pour nombre statique d'éléments
 pour une matrice utiliser la librairie Eigen
+https://godbolt.org/ pour compiler en ligne
